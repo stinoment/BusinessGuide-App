@@ -1,68 +1,68 @@
-# <div align="center">
+<div align="center">
 
-# &#x20; <img src="photo\_2026-08-21\_05-59-14.jpg" alt="BusinessGuide App" width="260"/>
+&#x20; <img src="photo\_2026-08-21\_05-59-14.jpg" alt="BusinessGuide App" width="260"/>
 
-# &#x20; 
+&#x20; 
 
-# &#x20; <h1>BusinessGuide - Smart Business Assistant</h1>
+&#x20; <h1>BusinessGuide - Smart Business Assistant</h1>
 
-# &#x20; <p>A comprehensive and smart application designed to help entrepreneurs, startups, and business owners scale their businesses efficiently while minimizing startup costs.</p>
+&#x20; <p>A comprehensive and smart application designed to help entrepreneurs, startups, and business owners scale their businesses efficiently while minimizing startup costs.</p>
 
-# </div>
+</div>
 
-# 
 
-# \---
 
-# 
+\---
 
-# \## 🎯 Our Mission
 
-# Starting and scaling a business can be expensive and overwhelming. The goal of \*\*BusinessGuide\*\* is to gather all the essential resources, from marketing knowledge to advanced financial calculators, in one completely free and accessible platform. We empower business owners to diagnose their business health and make data-driven decisions.
 
-# 
+\## 🎯 Our Mission
 
-# \## ✨ Key Features
+Starting and scaling a business can be expensive and overwhelming. The goal of \*\*BusinessGuide\*\* is to gather all the essential resources, from marketing knowledge to advanced financial calculators, in one completely free and accessible platform. We empower business owners to diagnose their business health and make data-driven decisions.
 
-# \* \*\*Curated Book Summaries:\*\* A handpicked collection of the world's best books on marketing, sales, and management.
 
-# \* \*\*Native Smart Tools:\*\* Highly interactive tools including a Break-Even Calculator, Conversion Rate Simulator, and SEO Audit forms.
 
-# \* \*\*Founders' Journey:\*\* Real-world case studies and success stories for practical benchmarking.
+\## ✨ Key Features
 
-# \* \*\*Dynamic Updates:\*\* New tools and insights are added monthly to keep users ahead of the market.
+\* \*\*Curated Book Summaries:\*\* A handpicked collection of the world's best books on marketing, sales, and management.
 
-# 
+\* \*\*Native Smart Tools:\*\* Highly interactive tools including a Break-Even Calculator, Conversion Rate Simulator, and SEO Audit forms.
 
-# \## 💻 Technical Highlights \& Architecture
+\* \*\*Founders' Journey:\*\* Real-world case studies and success stories for practical benchmarking.
 
-# \* \*\*Modern Tech Stack:\*\* 100% written in Kotlin using Jetpack Compose for a declarative, smooth, and modern UI.
+\* \*\*Dynamic Updates:\*\* New tools and insights are added monthly to keep users ahead of the market.
 
-# \* \*\*Physics-Based Interactive UI:\*\* The Home Screen features a custom floating/parallax effect utilizing the device's hardware sensors (Gravity Sensor).
 
-# \* \*\*Highly Optimized Performance:\*\* Utilized LazyColumn and LazyVerticalGrid components to ensure silky-smooth scrolling and memory efficiency.
 
-# \* \*\*Hybrid Content Delivery:\*\* Content like book summaries are fetched dynamically from a web server via APIs (WordPress REST API) to keep the app lightweight.
+\## 💻 Technical Highlights \& Architecture
 
-# \* \*\*Native Calculation Engines:\*\* Financial tools are processed entirely natively on the device to ensure zero latency.
+\* \*\*Modern Tech Stack:\*\* 100% written in Kotlin using Jetpack Compose for a declarative, smooth, and modern UI.
 
-# \* \*\*Bilingual Support:\*\* Engineered to support both English and Persian (Farsi) seamlessly, handling complex RTL and LTR UI challenges flawlessly.
+\* \*\*Physics-Based Interactive UI:\*\* The Home Screen features a custom floating/parallax effect utilizing the device's hardware sensors (Gravity Sensor).
 
-# 
+\* \*\*Highly Optimized Performance:\*\* Utilized LazyColumn and LazyVerticalGrid components to ensure silky-smooth scrolling and memory efficiency.
 
-# \---
+\* \*\*Hybrid Content Delivery:\*\* Content like book summaries are fetched dynamically from a web server via APIs (WordPress REST API) to keep the app lightweight.
 
-# 
+\* \*\*Native Calculation Engines:\*\* Financial tools are processed entirely natively on the device to ensure zero latency.
 
-# \## 📥 Download \& Try it out!
+\* \*\*Bilingual Support:\*\* Engineered to support both English and Persian (Farsi) seamlessly, handling complex RTL and LTR UI challenges flawlessly.
 
-# I have included the latest APK directly in this repository so you can easily install and test the app on your Android device. 
 
-# 
 
-# \*\*\[👉 Click Here to Download the App (app-release.apk)](app-release.apk)\*\*
+\---
 
-# 
 
-# \*Please download the app, test the smooth UI and native tools, and feel free to share your feedback! Coming soon to Google Play Store.\*
+
+\## 📥 Download \& Try it out!
+
+I have included the latest APK directly in this repository so you can easily install and test the app on your Android device. 
+
+
+
+\*\*\[👉 Click Here to Download the App (app-release.apk)](app-release.apk)\*\*
+
+
+
+\*Please download the app, test the smooth UI and native tools, and feel free to share your feedback! Coming soon to Google Play Store.\*
 
