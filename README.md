@@ -30,29 +30,29 @@ Starting and scaling a business can be expensive and overwhelming. The goal of \
 
 ✨ Key Features
 
-\* \*\*Curated Book Summaries:\*\* A handpicked collection of the world's best books on marketing, sales, and management.
+ Curated Book Summaries:\*\* A handpicked collection of the world's best books on marketing, sales, and management.
 
-\* \*\*Native Smart Tools:\*\* Highly interactive tools including a Break-Even Calculator, Conversion Rate Simulator, and SEO Audit forms.
+ Native Smart Tools:\*\* Highly interactive tools including a Break-Even Calculator, Conversion Rate Simulator, and SEO Audit forms.
 
-\* \*\*Founders' Journey:\*\* Real-world case studies and success stories for practical benchmarking.
+ Founders' Journey:\*\* Real-world case studies and success stories for practical benchmarking.
 
-\* \*\*Dynamic Updates:\*\* New tools and insights are added monthly to keep users ahead of the market.
+ Dynamic Updates:\*\* New tools and insights are added monthly to keep users ahead of the market.
 
 
 
 💻 Technical Highlights \& Architecture
 
-\* \*\*Modern Tech Stack:\*\* 100% written in `Kotlin` using `Jetpack Compose` for a declarative, smooth, and modern UI.
+ Modern Tech Stack:\*\* 100% written in `Kotlin` using `Jetpack Compose` for a declarative, smooth, and modern UI.
 
-\* \*\*Physics-Based Interactive UI:\*\* The Home Screen features a custom floating/parallax effect utilizing the device's hardware sensors (Gravity Sensor).
+ Physics-Based Interactive UI:\*\* The Home Screen features a custom floating/parallax effect utilizing the device's hardware sensors (Gravity Sensor).
 
-\* \*\*Highly Optimized Performance:\*\* Utilized `LazyColumn` and `LazyVerticalGrid` components to ensure silky-smooth scrolling and memory efficiency.
+ Highly Optimized Performance:\*\* Utilized `LazyColumn` and `LazyVerticalGrid` components to ensure silky-smooth scrolling and memory efficiency.
 
-\* \*\*Hybrid Content Delivery:\*\* Content like book summaries are fetched dynamically from a web server via APIs (WordPress REST API) to keep the app lightweight.
+ Hybrid Content Delivery:\*\* Content like book summaries are fetched dynamically from a web server via APIs (WordPress REST API) to keep the app lightweight.
 
-\* \*\*Native Calculation Engines:\*\* Financial tools are processed entirely natively on the device to ensure zero latency.
+ Native Calculation Engines:\*\* Financial tools are processed entirely natively on the device to ensure zero latency.
 
-\* \*\*Bilingual Support:\*\* Engineered to support both English and Persian (Farsi) seamlessly, handling complex RTL and LTR UI challenges flawlessly.
+ Bilingual Support:\*\* Engineered to support both English and Persian (Farsi) seamlessly, handling complex RTL and LTR UI challenges flawlessly.
 
 
 
