@@ -26,7 +26,7 @@
 
 Starting and scaling a business can be expensive and overwhelming. The goal of \*\*BusinessGuide\*\* is to gather all the essential resources, from marketing knowledge to advanced financial calculators, in one completely free and accessible platform. We empower business owners to diagnose their business health and make data-driven decisions.
 
-
+<br>
 
 ✨ Key Features
 
@@ -38,7 +38,7 @@ Starting and scaling a business can be expensive and overwhelming. The goal of \
 
  Dynamic Updates:\*\* New tools and insights are added monthly to keep users ahead of the market.
 
-
+<br>
 
 💻 Technical Highlights \& Architecture
 
@@ -54,7 +54,7 @@ Starting and scaling a business can be expensive and overwhelming. The goal of \
 
  Bilingual Support:\*\* Engineered to support both English and Persian (Farsi) seamlessly, handling complex RTL and LTR UI challenges flawlessly.
 
-
+<br>
 
 <br>
 
@@ -68,7 +68,7 @@ Starting and scaling a business can be expensive and overwhelming. The goal of \
 
 I have included the latest APK directly in this repository so you can easily install and test the app on your Android device. 
 
-
+<br>
 
 \*\*\[🚀 Click Here to Download the App (app-release.apk)](app-release.apk)\*\*
 
