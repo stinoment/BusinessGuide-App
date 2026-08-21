@@ -16,15 +16,15 @@ Starting and scaling a business can be expensive and overwhelming. The goal of *
 *  Dynamic Updates:** New tools and insights are added monthly to keep users ahead of the market.
 <br>
  💻 Technical Highlights & Architecture<br>
-* Modern Tech Stack:** 100% written in `Kotlin` using `Jetpack Compose` for a declarative, smooth, and modern UI.<br>
-* Physics-Based Interactive UI:** The Home Screen features a custom floating/parallax effect utilizing the device's hardware sensors (Gravity Sensor).<br>
-* Highly Optimized Performance:** Utilized `LazyColumn` and `LazyVerticalGrid` components to ensure silky-smooth scrolling and memory efficiency.<br>
-* Hybrid Content Delivery:** Content like book summaries are fetched dynamically from a web server via APIs (WordPress REST API) to keep the app lightweight.<br>
-* Native Calculation Engines:** Financial tools are processed entirely natively on the device to ensure zero latency.<br>
-* Bilingual Support:** Engineered to support both English and Persian (Farsi) seamlessly, handling complex RTL and LTR UI challenges flawlessly.<br>
+* Modern Tech Stack:** 100% written in `Kotlin` using `Jetpack Compose` for a declarative, smooth, and modern UI.<br><br>
+* Physics-Based Interactive UI:** The Home Screen features a custom floating/parallax effect utilizing the device's hardware sensors (Gravity Sensor).<br><br>
+* Highly Optimized Performance:** Utilized `LazyColumn` and `LazyVerticalGrid` components to ensure silky-smooth scrolling and memory efficiency.<br><br>
+* Hybrid Content Delivery:** Content like book summaries are fetched dynamically from a web server via APIs (WordPress REST API) to keep the app lightweight.<br><br>
+* Native Calculation Engines:** Financial tools are processed entirely natively on the device to ensure zero latency.<br><br>
+* Bilingual Support:** Engineered to support both English and Persian (Farsi) seamlessly, handling complex RTL and LTR UI challenges flawlessly.<br><br>
 <br><br>
  👨‍💻 About the Developer & Stinoment
-This application is proudly designed and developed by **Hamed Asghari** under our official brand, **[Stinoment](https://stinoment.com)**. We are dedicated to creating high-quality, modern digital solutions. For more exclusive tools, custom source codes, and professional business services, be sure to visit our website at **[Stinoment.com](https://stinoment.com)**.
+This application is proudly designed and developed by **Hamed Asghari** under our official brand, Stinoment. We are dedicated to creating high-quality, modern digital solutions. For more exclusive tools, custom source codes, and professional business services, be sure to visit our website at https://stinoment.com.
 <br><br>
 🤝 Open to Opportunities
 I am highly motivated and currently open to new collaborations! Whether it's partnering on exciting new projects, freelance work, or full-time employment opportunities with innovative companies that offer a great culture and competitive benefits, I would love to connect. Let's build something amazing together!
