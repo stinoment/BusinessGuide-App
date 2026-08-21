@@ -22,13 +22,13 @@
 
 
 
-\### 🎯 Our Mission
+ 🎯 Our Mission
 
 Starting and scaling a business can be expensive and overwhelming. The goal of \*\*BusinessGuide\*\* is to gather all the essential resources, from marketing knowledge to advanced financial calculators, in one completely free and accessible platform. We empower business owners to diagnose their business health and make data-driven decisions.
 
 
 
-\### ✨ Key Features
+✨ Key Features
 
 \* \*\*Curated Book Summaries:\*\* A handpicked collection of the world's best books on marketing, sales, and management.
 
@@ -40,7 +40,7 @@ Starting and scaling a business can be expensive and overwhelming. The goal of \
 
 
 
-\### 💻 Technical Highlights \& Architecture
+💻 Technical Highlights \& Architecture
 
 \* \*\*Modern Tech Stack:\*\* 100% written in `Kotlin` using `Jetpack Compose` for a declarative, smooth, and modern UI.
 
@@ -64,7 +64,7 @@ Starting and scaling a business can be expensive and overwhelming. The goal of \
 
 
 
-\### 📥 Download \& Try it out!
+ 📥 Download \& Try it out!
 
 I have included the latest APK directly in this repository so you can easily install and test the app on your Android device. 
 
