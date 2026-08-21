@@ -1,28 +1,34 @@
-<div align="center">
-
-&#x20; <img src="photo\_2026-08-21\_05-59-14.jpg" alt="BusinessGuide App" width="260"/>
-
-&#x20; 
-
-&#x20; <h1>BusinessGuide - Smart Business Assistant</h1>
-
-&#x20; <p>A comprehensive and smart application designed to help entrepreneurs, startups, and business owners scale their businesses efficiently while minimizing startup costs.</p>
-
-</div>
+<h1 align="center">BusinessGuide - Smart Business Assistant</h1>
 
 
 
-\---
+<p align="center">
+
+&#x20; <!-- برای قرار دادن عکس، آموزش قدم سوم را بخوانید -->
+
+</p>
 
 
 
-\## 🎯 Our Mission
+<p align="center">
+
+&#x20; <b>A comprehensive and smart application designed to help entrepreneurs, startups, and business owners scale their businesses efficiently while minimizing startup costs.</b>
+
+</p>
+
+
+
+<br>
+
+
+
+\### 🎯 Our Mission
 
 Starting and scaling a business can be expensive and overwhelming. The goal of \*\*BusinessGuide\*\* is to gather all the essential resources, from marketing knowledge to advanced financial calculators, in one completely free and accessible platform. We empower business owners to diagnose their business health and make data-driven decisions.
 
 
 
-\## ✨ Key Features
+\### ✨ Key Features
 
 \* \*\*Curated Book Summaries:\*\* A handpicked collection of the world's best books on marketing, sales, and management.
 
@@ -34,13 +40,13 @@ Starting and scaling a business can be expensive and overwhelming. The goal of \
 
 
 
-\## 💻 Technical Highlights \& Architecture
+\### 💻 Technical Highlights \& Architecture
 
-\* \*\*Modern Tech Stack:\*\* 100% written in Kotlin using Jetpack Compose for a declarative, smooth, and modern UI.
+\* \*\*Modern Tech Stack:\*\* 100% written in `Kotlin` using `Jetpack Compose` for a declarative, smooth, and modern UI.
 
 \* \*\*Physics-Based Interactive UI:\*\* The Home Screen features a custom floating/parallax effect utilizing the device's hardware sensors (Gravity Sensor).
 
-\* \*\*Highly Optimized Performance:\*\* Utilized LazyColumn and LazyVerticalGrid components to ensure silky-smooth scrolling and memory efficiency.
+\* \*\*Highly Optimized Performance:\*\* Utilized `LazyColumn` and `LazyVerticalGrid` components to ensure silky-smooth scrolling and memory efficiency.
 
 \* \*\*Hybrid Content Delivery:\*\* Content like book summaries are fetched dynamically from a web server via APIs (WordPress REST API) to keep the app lightweight.
 
@@ -50,17 +56,21 @@ Starting and scaling a business can be expensive and overwhelming. The goal of \
 
 
 
+<br>
+
+
+
 \---
 
 
 
-\## 📥 Download \& Try it out!
+\### 📥 Download \& Try it out!
 
 I have included the latest APK directly in this repository so you can easily install and test the app on your Android device. 
 
 
 
-\*\*\[👉 Click Here to Download the App (app-release.apk)](app-release.apk)\*\*
+\*\*\[🚀 Click Here to Download the App (app-release.apk)](app-release.apk)\*\*
 
 
 
